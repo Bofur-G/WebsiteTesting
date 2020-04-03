@@ -1,0 +1,402 @@
+
+<!doctype html><html class="no-js" lang=""><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Garland IT</title>  
+        <meta name="viewport" content="width=device-width, initial-scale=1">          
+    <style>
+.popup-inner
+{
+    background-size:100%;
+        position: relative;
+}
+
+.popup-inner .submitted-message {
+    color: #fff;
+    font-size: 20px;
+}
+
+
+.popup-inner .hs-error-msgs li label {
+    color: #fff;
+    font-size: 12px;
+    margin-top: 2px !important;
+    display: block;
+}
+
+
+.popup-inner  input {
+    //margin-bottom: 10px;
+	}
+
+.popup-inner .hs_firstname,.popup-inner .hs_email
+{
+    height:50px;
+}
+
+
+.popup-inner .hs_submit {
+    text-align: center;
+}
+.popup-inner .hs-button {
+    background: #e31e64;
+    font-family: 'Dual-300',helvetica,sans-serif;
+    font-size: 24px;
+    line-height: 24px !important;
+    display: inline-block;
+    padding: 12px 25px;
+    outline: -webkit-focus-ring-color auto 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+
+
+.popup-inner  {
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+}
+
+.popup-inner  form
+{
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.popup-inner label,.popup-inner .hs-richtext,.popup-inner .hs_text.field.hs-form-field {
+    display:none;
+}
+
+
+    #inline a img {
+    border: none;
+    width: 100% !important;
+    text-align:center;
+}
+.fancybox-wrap{
+    top: 85px !important;
+}
+.fancybox-inner {
+    //max-width: 500px!Important;
+	overflow: hidden!Important;
+    width:100% !important;
+}
+.fancybox-opened {
+    //max-width: 500px!Important;
+	margin: 0px auto!important;
+    //left: 0!Important;
+	//right: 0px!Important;
+	text-align:center;
+}
+.fancybox-close{
+    top: 15px !important;
+    right: 10px !important;
+}
+
+.fancybox-opened{
+    position:fixed !important;
+}
+
+/************** ipad ***************/
+@media (max-width: 1080px) {}
+
+/************** ipad nd tab ***************/
+@media only screen and (min-width:768px) and (max-width: 1024px) {
+    .fancybox-opened {
+        width: auto!Important;
+        text-align:center;
+    }
+    .fancybox-inner {
+         width: auto!Important;
+    }
+    .fancybox-close {
+        top: 15px !important;
+        right: 30px !important;
+    }
+}
+
+/************** iphone roatate***************/
+@media (max-width: 767px) {
+    .fancybox-opened {
+        width: auto!Important;
+    }
+    .fancybox-inner {
+         width: auto!Important;
+    }
+}
+
+
+/************** iphone ***************/
+@media (max-width: 479px) {
+    
+}
+      </style>
+<link href="http://it.garlandhq.com/wp-content/uploads/2017/02/32x32.png" rel="icon">	  
+<link rel="stylesheet" href="combined-css-1d85c97dcbf8eeaf0b3026dfffef307f.css"><script src="jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W37B5WB');</script>
+<!-- End Google Tag Manager -->
+<meta name="twitter:card" content="summary">
+<meta http-equiv="content-language" content="en-ie">
+    <meta name="generator" content="HubSpot"></head>
+    <body class="home">
+        <span class="bg-default"></span>
+        <span class="bg bg-4"></span>
+        <span class="bg bg-3"></span>
+        <span class="bg bg-2"></span>
+        <span class="bg bg-1"></span>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+         <header>
+            <div class="header-logo">
+                <a href="http://www.garlandhq.com">
+                    <img style="width:70px;height:69px;" src="https://www.garlandhq.com/assets/images/logo.png" alt="GarlandLogo">
+                </a>
+            </div>
+            <nav class="primary">
+ <span role="menu" id="hs_cos_wrapper_main_nav" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu">
+ <div id="hs_menu_wrapper_main_nav" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" aria-label="Navigation Menu">
+ <ul>
+  <li style="color:white;" class="hs-menu-item hs-menu-depth-1"><a href="http://it.garlandind.com/it-services/" role="menuitem">IT Servcies</a></li>
+  <li style="color:white;" class="hs-menu-item hs-menu-depth-1"><a href="http://it.garlandind.com/blog/" role="menuitem">Blog</a></li>
+  <li style="color:white;" class="hs-menu-item hs-menu-depth-1"><a href="http://it.garlandind.com/team/" role="menuitem">Meet the Team</a></li>
+  <li style="color:white;" class="hs-menu-item hs-menu-depth-1"><a href="http://support.garlandhq.com/" role="menuitem">Remote Support</a></li>
+  <li style="color:white;" class="hs-menu-item hs-menu-depth-1"><a href="http://it.garlandind.com/policies/" role="menuitem">Policies</a></li>
+  <li style="color:white;" class="hs-menu-item hs-menu-depth-1"><a href="http://it.garlandind.com/project-safe-2/" role="menuitem">Project SAFE</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://helpdesk.garlandhq.com/" role="menuitem">Help Desk</a></li>
+ </ul>
+</div>
+</span>
+<a id="nav-toggle" href="#"><span></span></a>
+            </nav>          
+        </header> 
+        <div id="fullpage">
+            
+      
+            <!--intro-->
+            <div class="section active intro">
+                <div class="logo morph">
+                    <div class="border">
+                        <div class="foreground">
+                            
+                        </div>
+
+                    </div>
+                </div>
+              
+                <span id="hs_cos_wrapper_splash_text" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2>Garland IT</h2>
+<p>Here to Help</p>
+<p>Scroll down to see how we can help!</p></span>
+
+                <div class="next">
+                  <a href="#Help%20Desk" class="extra-anchor"><!--News--></a>
+                </div>
+            </div>          
+            <!-- Survey -->
+            <div class="section survey">
+                <div class="survey-bg"> </div>
+                <article>
+                    
+                    <div class="left">
+                        <div class="animation-container">
+                          <img class="tinman lazy" src="https://i.gyazo.com/572e0c1d8d0851ef6973751a0f8442d0.png" alt="Chris Ticket">
+                        </div>
+                        <!--<div class="shadow"></div>-->
+                    </div>
+                  
+                    <div class="right text">
+                    <span id="hs_cos_wrapper_survey_text" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h3>Help Desk</h3>
+<p><span>A ticketing system allows us to keep things organized, efficient, and effective. For the fastest method of support please place a ticket and we'll get to it as soon as possible!<BR><BR>A help desk is a multi-dimensional resource, designated to help in reducing downtime in IT services and functions and making them available for maximum time. It is specially focused on end user functionality, and, thus, is responsible for quick resolution of immediate needs, incidents and technical issues of end users.<BR>
+
+Any basic functioning help desk needs to have the ability to provide technical support to get an end user back into functioning mode. As a matter of best practice, help desk usually utilizes special software to record, track and manage issues raised.</span></p>
+<p><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-50f899e3-3e73-482d-88e3-86cf5b50ee53"><span class="hs-cta-node hs-cta-50f899e3-3e73-482d-88e3-86cf5b50ee53" id="hs-cta-50f899e3-3e73-482d-88e3-86cf5b50ee53"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/390157/50f899e3-3e73-482d-88e3-86cf5b50ee53"></a></span><script charset="utf-8" src="current.js"></script><script type="text/javascript"> hbspt.cta._relativeUrls=true;hbspt.cta.load(390157, '50f899e3-3e73-482d-88e3-86cf5b50ee53', {}); </script></span><!-- end HubSpot Call-to-Action Code --></p></span>
+                    </div>
+                </article>
+                  <div class="next">
+                    <a href="#Mission" class="extra-anchor"></a>
+                  </div>
+            </div>
+
+            <!-- Purpose -->
+            <div class="section purpose">
+                <div class="purpose-bg"> </div>
+                <article>
+                    <div class="modal">
+                        <span class="close">x</span>                 
+                        <header>
+                            <h1>Purpose</h1>
+                        </header>
+                        <div class="text-container">
+                            <span id="hs_cos_wrapper_purpose_modal" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p>Your content, much like your products or services, must solve your prospects’ problems. It must get noticed, be engaging, educational and empowering. It must add value to their day to day working lives. Be aspirin for their headaches. You will only earn trust and thought leadership through high quality and persuasive content.  </p>
+							</span>
+                        </div>
+                    </div>
+                    <div class="left">
+                        <div class="animation-container">
+                            <a href="http://it.garlandind.com/team/"><img style="width:384px;height:512px;" class="island" src="https://www.thehindubusinessline.com/migration_catalog/article18247655.ece/alternates/PORTRAIT_435/bl06_bulb.jpg" alt="Chris Meeting"></a>                           
+                            
+                        </div>
+                        <!--<div class="shadow"></div>-->
+                    </div>
+					<div class="right text">
+						<span id="hs_cos_wrapper_purpose_text" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h3>Our Mission</h3>
+							<p>
+								<h4>Innovate</h4><BR> Analyze your day-to-day practices and develop enhancements through software services and automation.<br><h4>Educate</h4><br>Provide personalized, engaging end-user training on process enhancing technology.<br><h4>Respond</h4><br>Immediate response to power and telecommunication outages to keep your business online.<br><h4>Support</h4><br>Maintain technology solutions to keep them functional and current.
+							</p>
+						</span>
+                    </div>
+                </article>
+                  <div class="next">
+                    <a href="#SAFE" class="extra-anchor"><!--Influence--></a>
+                  </div>
+            </div>
+            <!-- Influence -->
+            <div class="section influence">
+				<div class="influence-bg"></div>
+            <article>
+                <div class="modal" id="influence">
+                <span class="close">x</span>                                   
+                        <header>
+                            <h1>Influence</h1>
+                        </header>
+                      </div>
+                <div class="left">
+                    <div class="animation-container">
+                        <a href="http://it.garlandind.com/team/"><img class="planet" src="https://i.gyazo.com/54c34d61b7aa5bacf03edebe4ce2d41b.jpg" alt="Bruce and LC"></a>
+                           
+                    </div>
+                    <!--<div class="shadow"></div>-->
+                </div>
+                <div class="right text">
+                <span id="hs_cos_wrapper_influence_text" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h3>Project Safe</h3>
+<p>The world’s most popular integrated Security Awareness Training and Simulated Phishing platform. Thousands of enterprise accounts are using it, 25% of which are banks and credit unions. Based on Kevin Mitnick’s 30+ year unique first-hand hacking experience, you now have a tool to better manage the urgent IT security problems of social engineering, spear phishing and ransomware attacks.<br><h4>What could be at risk?</h4><br>
+<ul>
+  <li><br>Product information, including designs, plans, patent applications, source code, and drawings.</li>
+  <li><br>Financial information, including market assessments and your company’s own financial records.</li>
+  <li><br>Customer information, including confidential information you hold on behalf of customers or clients.</li>
+</ul></p>
+<p><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-39c92278-2125-4eb5-bc19-dcc808788129"><span class="hs-cta-node hs-cta-39c92278-2125-4eb5-bc19-dcc808788129" id="hs-cta-39c92278-2125-4eb5-bc19-dcc808788129"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--></span><script charset="utf-8" src="current.js"></script><script type="text/javascript"> hbspt.cta._relativeUrls=true;hbspt.cta.load(390157, '39c92278-2125-4eb5-bc19-dcc808788129', {}); </script></span><!-- end HubSpot Call-to-Action Code --></p></span>
+                </div>
+            </article>
+              <div class="next">
+                <a href="#Focus" class="extra-anchor"></a>
+              </div>
+            </div>
+            <!-- Focus -->
+            <div class="section focus">
+            <div class="focus-bg"></div>
+            <article>
+                <div class="modal">
+                <span class="close">x</span>                 
+                    <header>
+                        <h1>Focus</h1>
+                    </header>                    
+                </div>
+                <div class="left">
+                    <div class="animation-container">
+                            <img class="brain" src="https://qlik.imgix.net/-/media/DA94758F0E0B42CE9EA784A4168254D5.ashx" alt="brain"><br><br>
+							<img class="brain" src="https://go.qlik.com/rs/qliktech/images/QVSense_SalesManagement.png" alt="brain">
+                    </div>
+                    <!--<div class="shadow"></div>-->
+                </div>
+                <div class="right text">
+                <span id="hs_cos_wrapper_focus_text" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h3><span style="color: #ffffff;">Garland BI</span></h3>
+<p>A BI system is an analytical tool that can give you the insight you need to make successful strategic plans for your organization. This is because such a system would be able to identify key trends and patterns in your organisation’s data and consequently make it easier for you to make important connections between different areas of your business that may otherwise seem unrelated. As such, a BI system can help you understand the implications of various organisational processes better and enhance your ability to identify suitable opportunities for your organization, thus enabling you to plan for a successful future.</p>
+<p><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-e839f812-50a5-48e7-b9fe-1e503c205a47"><span class="hs-cta-node hs-cta-e839f812-50a5-48e7-b9fe-1e503c205a47" id="hs-cta-e839f812-50a5-48e7-b9fe-1e503c205a47"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--></span><script charset="utf-8" src="current.js"></script><script type="text/javascript"> hbspt.cta._relativeUrls=true;hbspt.cta.load(390157, 'e839f812-50a5-48e7-b9fe-1e503c205a47', {}); </script></span><!-- end HubSpot Call-to-Action Code --></p></span>
+                </div>
+            </article>
+            <div class="next">
+                <a href="#Home" class="extra-anchor"><!--Purpose--></a>
+              </div>
+            
+            </div>                                       
+        </div>
+        <script src="validate.js"></script>
+        <script src="jquery.fullPage.js"></script>
+        <script src="Home.min.js"></script>
+        <script type="text/javascript" src="Main.js"></script> 
+<script>
+(function () {
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/_hcms/perf', true /*async*/);
+            xhr.setRequestHeader("Content-type", "application/json");
+            xhr.onreadystatechange = function () {
+                // do nothing.
+            };
+            var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+            function populateNetworkInfo(name, connection, info) {
+                if (name in connection) {
+                    info[name] = connection[name];
+                }
+            }
+            var networkInfo = {};
+            if (connection) {
+                ['type', 'effectiveType', 'downlink', 'rtt'].forEach(function(name) {
+                    populateNetworkInfo(name, connection, networkInfo);
+                });
+            }
+            var perfData = {
+                url: location.href,
+                portal: 390157,
+                content: 3990073709,
+                group: -1,
+                connection: networkInfo,
+                timing: performance.timing
+            };
+            xhr.send(JSON.stringify(perfData));
+        }, 3000);  // Execute this 3 seconds after onload.
+    });
+})();
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.dotdotdot/1.7.4/jquery.dotdotdot.min.js"></script>
+
+        <script>
+          (function() {
+            if ("loading" in HTMLImageElement.prototype) {
+              var lazyEls = document.querySelectorAll("[loading=lazy]");
+              lazyEls.forEach(function(lazyEl) {
+                lazyEl.setAttribute(
+                  "src",
+                  lazyEl.getAttribute("data-src")
+                );
+              });
+            } else {
+              // Dynamically include a lazy loading library of your choice
+              // Here including vanilla-lazyload
+              var script = document.createElement("script");
+              script.async = true;
+              script.src =
+                "https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js";
+              window.lazyLoadOptions = {
+                elements_selector: "[loading=lazy]"
+                //eventually more options here
+              };
+              document.body.appendChild(script);
+            }
+          })();
+        </script>          
+    
+    <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.js"></script>
+    <script type="text/javascript" src="SDpopup.txt"></script> 
+    <a style="display:none;" class="modalbox" href="#inline">click</a>
+    <div id="inline"> 
+      <!--[if lte IE 8]>
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+      <![endif]-->
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+      </div>
+    </div> 
+</body></html>
